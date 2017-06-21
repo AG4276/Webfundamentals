@@ -9,7 +9,6 @@
 	background-color: yellow;
 	border-radius: 50px;
 }
-
 .lefteye{
 	width: 6px;
 	height: 6px;
@@ -54,7 +53,6 @@
 	top: 2px;
 	background-color: white;
 }
-
 .mouth{
 	width: 30px;
 	height: 10px;
@@ -66,3 +64,27 @@
 	left: 1em;
 	background-color: black;
 }
+#inner-mouth{
+	width: 15px;
+	height: 10px;
+	border: solid 1px red;
+	border-radius: 0px 0px 45px 45px;
+	margin: 0px;
+	position: relative;
+	top: 0.5em;
+	left: 0.40em;
+	background-color: red;
+}
+.nose{
+	width: 1px;
+	height: 10px;
+	border: solid 1px black;
+	background-color: black;
+	position: relative;
+	margin: 0px 0px 100px 50px;
+	bottom: 1.8em;
+	right: 0.3em;
+	}
+	.hair{
+		
+	}
