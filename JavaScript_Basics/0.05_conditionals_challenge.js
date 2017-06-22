@@ -19,7 +19,6 @@ if (age === 17) {
 
 var numberOfTimesWeBeatThem = 3;
 var numberOfTimesTheyBeatUS = 3;
-var
 
 if (numberOfTimesWeBeatThem > numberOfTimesTheyBeatUS) {
 	console.log("Winners stand tall.")
