@@ -59,6 +59,6 @@ function productAfterTax(amount, price, tax) {
 	var tax = 0.07;
 	var taxDetails = amount * price * tax;
 	var productDetails = taxDetails + amount * price;
-	console.log(productdetails)
+	console.log(productDetails)
 }
 productAfterTax(10, .99)
