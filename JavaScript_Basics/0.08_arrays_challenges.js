@@ -14,3 +14,7 @@ console.log(favoriteCandy.length);
 console.log(favoriteCandy);
 favoriteCandy.push("Snickers");
 console.log(favoriteCandy);
+
+var name = ["A", "n", "a"];
+var revName = name.reverse("").join("")
+console.log(revName)
